@@ -1,8 +1,8 @@
 export default function PrintMsg(){
     return(
         <>
-        <h2>Hello World</h2>
-        <p>This is just printing some text to test and upload in GitHub.</p>
+        <h2>Hello World! Testing an edit</h2>
+        <p>This is a new added line to test</p>
         </>
     );
 }
